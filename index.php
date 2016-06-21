@@ -1,4 +1,4 @@
 <?php
 echo "Hello World!";
-echp "Check For Github";
+echo "Check For Github";
 ?>
